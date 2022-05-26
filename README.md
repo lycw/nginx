@@ -1,5 +1,5 @@
 # nginx
-#/etc/nginx/cond.f	#nginx配置文件路径
+#/etc/nginx/cond.f	#nginx配置文件路径,*.conf格式
 
 server {
 
