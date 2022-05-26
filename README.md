@@ -1,6 +1,7 @@
 # nginx
 #/etc/nginx/cond.f
 server {
+
 	listen 443 ssl;
 	server_name domain name;
 	ssl on;
